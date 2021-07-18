@@ -6,7 +6,7 @@ Here, you can search users by name or email. Adaptable for corporate managers an
 Built using HTML, Javacript, React, Bootstrap, and minimal in-line CSS
 
 ## Deployed Application
-![alt text](https://github.com/j-toups/React-DIrects-People/blob/main/Capture.PNG)
+![alt text](https://github.com/j-toups/React-DIrects-People/blob/main/public/Capture.PNG)
 
 Deloyed using Heroku: https://user-directoryyyyyy.herokuapp.com/
 
