@@ -11,7 +11,7 @@ Built using HTML, Javacript, React, Bootstrap, and minimal in-line CSS
 Deloyed using Heroku: https://user-directoryyyyyy.herokuapp.com/
 
 ## Installation 
-To install dependencies run 'npm i', then start by running 'npm start'. 
+To install dependencies run `npm i`, then start by running `npm start`. 
 
 ## Contributor 
 Joseph Toups
